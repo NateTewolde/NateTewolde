@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate Tewolde</h1>
 <h3 align="center">A passionate frontend developer from Washington, USA</h3>
 
-- 🌱 I’m currently learning **The Oden Project https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript**
+- 🌱 I’m currently learning **The Odin Project https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript**
 
 - 📫 How to reach me **tewolde.nate@gmail.com**
 
