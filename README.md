@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nate Tewolde</h1>
-<h3 align="center">Full stack web developer>
+<h3 align="center">Full stack web developer</h3>
 
 - 🌱 I’m currently learning **The Odin Project https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript**
 
