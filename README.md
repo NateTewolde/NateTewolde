@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nate Tewolde</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **VidScriptGenius**
 
